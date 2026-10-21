@@ -1,0 +1,14 @@
+# macOS / Python
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Local Claude Code context (not shared)
+CLAUDE.md
+.claude/
+
+# Thesis writing (kept local)
+*.tex
+*.bib
